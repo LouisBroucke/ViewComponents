@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ViewComponents.wwwroot.ViewComponents
 {
-    public class Reclame : ViewComponent
+    public class Reclame : ViewComponent 
     {
         static string[] powerbars = { "mars", "bounty", "snickers", "twix" };
 
